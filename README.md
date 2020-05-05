@@ -1,2 +1,1 @@
-# atom
-atom.github.io
+# atom.github.io
