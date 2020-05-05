@@ -1,3 +1,2 @@
 # atom
-atom
-qe
+atom.github.io
